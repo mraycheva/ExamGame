@@ -40,43 +40,43 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assassin.cs">
+    <Compile Include="Heroes\Assassin.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="AttackBeginningArgs.cs">
+    <Compile Include="FightEventsArgs\AttackBeginningArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="AttackEndArgs.cs">
+    <Compile Include="FightEventsArgs\AttackEndArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Barbarian.cs">
+    <Compile Include="Heroes\Barbarian.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="DefenceBeginningArgs.cs">
+    <Compile Include="FightEventsArgs\DefenceBeginningArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="DefenceEndArgs.cs">
+    <Compile Include="FightEventsArgs\DefenceEndArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="HaveAWinnerArgs.cs">
+    <Compile Include="FightEventsArgs\HaveAWinnerArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="HeroIsDeadArgs.cs">
+    <Compile Include="FightEventsArgs\HeroIsDeadArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Illusionist.cs">
+    <Compile Include="Heroes\Illusionist.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="GameEngine.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Hero.cs">
+    <Compile Include="Heroes\Hero.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Knight.cs">
+    <Compile Include="Heroes\Knight.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Monk.cs">
+    <Compile Include="Heroes\Monk.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="Program.cs">
@@ -85,13 +85,13 @@
     <Compile Include="Properties\AssemblyInfo.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="RoundBeginningArgs.cs">
+    <Compile Include="FightEventsArgs\RoundBeginningArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="RoundEndArgs.cs">
+    <Compile Include="FightEventsArgs\RoundEndArgs.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="Warrior.cs">
+    <Compile Include="Heroes\Warrior.cs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
   </ItemGroup>

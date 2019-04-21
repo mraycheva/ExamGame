@@ -22,3 +22,27 @@ D:\Uni\ООП2\ExamGame\ExamGame\bin\Debug\Properties\AssemblyInfo.cs
 D:\Uni\ООП2\ExamGame\ExamGame\bin\Debug\RoundBeginningArgs.cs
 D:\Uni\ООП2\ExamGame\ExamGame\bin\Debug\RoundEndArgs.cs
 D:\Uni\ООП2\ExamGame\ExamGame\bin\Debug\Warrior.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\AttackBeginningArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\AttackEndArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\DefenceBeginningArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\DefenceEndArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\HaveAWinnerArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\HeroIsDeadArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\GameEngine.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Program.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Properties\AssemblyInfo.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\RoundBeginningArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\RoundEndArgs.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\ExamGame.exe
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\ExamGame.pdb
+D:\Uni\ООП2 C#\ExamGame\ExamGame\obj\Debug\ExamGame.csprojResolveAssemblyReference.cache
+D:\Uni\ООП2 C#\ExamGame\ExamGame\obj\Debug\ExamGame.csproj.CoreCompileInputs.cache
+D:\Uni\ООП2 C#\ExamGame\ExamGame\obj\Debug\ExamGame.exe
+D:\Uni\ООП2 C#\ExamGame\ExamGame\obj\Debug\ExamGame.pdb
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Assassin.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Barbarian.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Illusionist.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Hero.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Knight.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Monk.cs
+D:\Uni\ООП2 C#\ExamGame\ExamGame\bin\Debug\Heroes\Warrior.cs
